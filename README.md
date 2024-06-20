@@ -9,10 +9,10 @@
 This repository contains all the assignments, lab reports, and other necessary academic files.
 
 ## How to upload:
-1. Fork this repository.
+1. Fork this(ECE 20) repository.
 #### Way 1(Using GitHub):
 1. Go to your repository.
-2. Go to the specific folder. 
+2. Go to the specific folder or create one.
 3. Click `Add File` then click `Upload file` to upload your corresponding lab report.
 4. Click on `Contribute` then click `Pull Request`.
 5. Write the commit message `Your Roll number`. Then click on `Create Pull Request`.
