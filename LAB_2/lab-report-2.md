@@ -15,7 +15,7 @@
 
 **Name:** Sirajum Munir  
 **Roll:** 2010013  
-**Lab Report Number:** 01   
+**Lab Report Number:** 02   
 **Submission Date:** 23-06-2024  
 **Course Code:** ECE 3113  
 **Department:** Department of Electrical & Computer Engineering (ECE)  
