@@ -346,7 +346,7 @@ Clean code is the foundation of reliable, scalable software. Mastering best prac
    // Good:
    err := saveUser()
    if err != nil {
-       log.Printf("Failed to save User: %v", err)
+       log.Printf("Failed to save user: %v", err)
        return
    }
    ```
